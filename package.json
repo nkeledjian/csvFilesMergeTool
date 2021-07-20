@@ -1,0 +1,16 @@
+{
+  "name": "csv-files-merge-tool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "csvMergeTool.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv": "^5.5.0",
+    "fast-csv": "^4.3.6"
+  }
+}
