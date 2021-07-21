@@ -4,9 +4,9 @@ A node app designed for merging CSV files with the same headers
 ### Why was this built?
 As part of my Technical Support Analyst role, I provide several monthly reports to customers. For some of the monthly reports, I manually download csv files of call data for each day of the month. 
 
-I've been able to divy up my time downloading the data for each day of the month easily. However, I was manually mergining the data from all of the csv files into one csv file. This would take upwards of 2-3 hours out of my work day.
+I've been able to divy up my time downloading the data for each day of the month easily. However, I was manually merging the data from all of the csv files into one csv file. This would take upwards of 2-3 hours out of my work day.
 
-Since the files I download have the exact same headers, I thought to myself "there's got to be a way to merge all of this csv file data into one csv file". Thus, the csvFilesMergeTool was born! No more manual copying and pasting :sweat_smile:
+Since the files I download have the exact same headers, I thought to myself "there's got to be a way to merge all of this csv file data into one csv file using node". Thus, the csvFilesMergeTool was born! No more manual copying and pasting :sweat_smile:
 
 ### Project set up
 
