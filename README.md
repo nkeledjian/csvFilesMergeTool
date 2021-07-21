@@ -21,3 +21,9 @@ Once node is installed on your machine, download the project files by cloning th
 Navigate to the root of the project and run the command `npm install` in terminal or git bash to install the dependencies for the project.
 
 ### How to use
+Once you have completed the set up, using the app is pretty straightfowward. Within the root of the project, you will see a folder titled `input-files-here`. Simply places the files you wish to merge in this folder.
+
+Now open up your terminal/git bash and navigate to filepath for the root of the project. To run the node app, type the following command:
+`node csvMergeTool.js`.
+
+The terminal will display all files to be merged and then display the text `Files have been merged!` when complete. The merged file will then be available in the folder titled `merged-file`.
